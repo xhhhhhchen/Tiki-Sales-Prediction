@@ -1,6 +1,6 @@
 # Tiki-Sales-Prediction
 
-## Problem Statement: 
+### Problem Statement: 
 
 The e-commerce sector is rapidly growing, influenced by numerous factors that affect sales and demand. With the rising popularity of various trends, it has become challenging to determine a product's popularity accurately. This creates a need for effective inventory management, ensuring that supply aligns with demand.
 
@@ -17,6 +17,9 @@ Information available:
 
 Using available information on current products, sales metrics, and user interactions, the project aims enable sellers to manage inventory efficiently and prioritize popular products. 
 
-
+## Exploratory Data Analysis and Data Cleaning (key insights) 
+### Overview of NULL values: 
+![image](https://github.com/user-attachments/assets/7be7b740-0d26-47d9-8fe6-818ae302a2f2)
+> Only `rating_average`contains NULL.
 
 
