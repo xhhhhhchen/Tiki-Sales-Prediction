@@ -1,6 +1,6 @@
 # Tiki-Sales-Prediction
 
-### Problem Statement: 
+## Problem Statement: 
 
 The e-commerce sector is rapidly growing, influenced by numerous factors that affect sales and demand. With the rising popularity of various trends, it has become challenging to determine a product's popularity accurately. This creates a need for effective inventory management, ensuring that supply aligns with demand.
 
@@ -16,5 +16,7 @@ Information available:
 * Metadata: `date_created`, `number_of_images`, `has_video`
 
 Using available information on current products, sales metrics, and user interactions, the project aims enable sellers to manage inventory efficiently and prioritize popular products. 
+
+
 
 
