@@ -7,6 +7,7 @@ The e-commerce sector is rapidly growing, influenced by numerous factors that af
 The goal of this project is to leverage the power of data analytics to build a predictive model that forecasts sales demand. This model will help optimize inventory management for online retail sellers by predicting the `quantity_sold` of a product. 
 
 The data that we will be analysing on contains `18` variables and `44804` observations.
+Link to dataset: https://www.kaggle.com/datasets/michaelminhpham/vietnamese-tiki-e-commerce-dataset
 
 Information available: 
 * Product related: `id`, `name`, `description`, `brand`, `product_type`
