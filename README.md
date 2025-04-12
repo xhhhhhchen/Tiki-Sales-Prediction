@@ -19,7 +19,7 @@ Using available information on current products, sales metrics, and user interac
 
 ## Exploratory Data Analysis and Data Cleaning (key insights) 
 ### Overview of NULL values: 
-![image](https://github.com/user-attachments/assets/7be7b740-0d26-47d9-8fe6-818ae302a2f2)
+<img src="https://github.com/user-attachments/assets/7be7b740-0d26-47d9-8fe6-818ae302a2f2" width="400">
 > Only `rating_average`contains NULL.
 
 
